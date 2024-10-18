@@ -1,5 +1,5 @@
 <h1 align="center">Team Shivyoddha</h1> 
-<p align="center">(Theme 5 : Quantum Computing - Quantum Detective: Cracking Financial 
+<p align="center">(Theme 5 : Quantum Detective: Cracking Financial 
 Anomalies)</p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/828f2d93-b7fb-48ce-b8e6-74bfc4130173" alt="Image" style="width: 150px; height: 150px; border-radius: 50%;">
