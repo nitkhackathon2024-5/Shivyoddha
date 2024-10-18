@@ -1,3 +1,4 @@
 - file_structure.txt (this file)
 - quantum_random_forest_model.pkl (Trained Quantum Random Forest Model)
+- Wells_Fargo_Hackathon.ipynb ( Colab verison of the python file with data visualizations)
 - explainatory_video.mp4 (Explanatory Video of the model)
