@@ -1,2 +1,3 @@
-- model.pkl ( Trained Quantum Random Forest Model)
-- video.mp4 ( Explanatory Video of the model)
+- file_structure.txt (this file)
+- quantum_random_forest_model.pkl (Trained Quantum Random Forest Model)
+- explainatory_video.mp4 (Explanatory Video of the model)
