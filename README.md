@@ -10,4 +10,6 @@
     <h2>Quantum Detective: Cracking Financial Anomalies</h2>
     <p>Dataset used can be found here: <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data">Credit Card Fraud Detection Dataset</a></p>
     <p>Google Colab Link: <a href="https://colab.research.google.com/drive/1ryQ9zwBUk0oRlx3JE8wOo9pDDs5xJqlM?usp=sharing">Quantum Random Forest Model</a></p>
+    <p><b>Circuit Used :</b><p> <img src="https://github.com/user-attachments/assets/0ef50a82-82e8-40f6-98a5-f18f5412c1a3" style="width: 700px; height: 350px;">
+
 </div>
